@@ -1,0 +1,44 @@
+{
+    "meta_data": {
+        "bookId": "3",
+        "title": "The Book of Magic",
+        "authors": [
+            "George R R Martin",
+            "Scott Lynch",
+            "Elizabeth Bear",
+            "Garth Nix"
+        ],
+        "selfLink": "books\\George R R Martin;Scott Lynch;Elizabeth Bear;Garth Nix\\The Book of Magic\\",
+        "thumbnail": "books\\George R R Martin;Scott Lynch;Elizabeth Bear;Garth Nix\\The Book of Magic\\thumbnail.jpg"
+    },
+    "highlights": [
+        {
+            "time": "21 April 2020 21:02:20",
+            "text": "So Magic predates Art. In fact, Art may have been invented as a tool to express Magic, to give Magic a practical means of execution\u2014to make it work.\n"
+        },
+        {
+            "time": "21 April 2020 21:02:37",
+            "text": "So Magic predates Art. In fact, Art may have been invented as a tool to express Magic, to give Magic a practical means of execution\u2014to make it work. So that if you go back far enough, artist and sorcerer are indistinguishable, one and the same\u2014a claim that can still be made with a good deal of validity to this very day.\n"
+        },
+        {
+            "time": "21 April 2020 21:06:20",
+            "text": "\u201canti-modern,\u201d non-progressive, socially irresponsible, even d\u00e9class\u00e9.\n"
+        },
+        {
+            "time": "21 April 2020 21:12:15",
+            "text": "some Amerind tribes, the magic-user was either malevolent\n"
+        },
+        {
+            "time": "22 April 2020 17:46:52",
+            "text": "They mention pain, in passing. Pain, they tell you, is one of the things that can screw up your concentration, so avoid it if you can. You nod sagely and jot it down in your lecture notes: avoid pain. But it never\n"
+        },
+        {
+            "time": "22 April 2020 17:47:05",
+            "text": "They mention pain, in passing. Pain, they tell you, is one of the things that can screw up your concentration, so avoid it if you can. You nod sagely and jot it down in your lecture notes: avoid pain. But it never comes up in the exam, so you forget about it.\n"
+        },
+        {
+            "time": "22 April 2020 18:00:20",
+            "text": "Self-disgust concentrates the mind the way fear is supposed to but doesn\u2019t.\n"
+        }
+    ]
+}

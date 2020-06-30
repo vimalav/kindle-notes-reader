@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Kindle Notes</title>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="styles/stylesheet.css"  media="all">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+	<link rel="shortcut icon" href="images/favicon.ico" />
+</head>
+<body id="body">
+
+      <!-- Header -->
+    <div class="jumbotron p-5">
+      <div class="container">
+          <h1 class="page-heading display-4">Books so far</h1>
+          <p><mark>Highlights and notes</mark> from the books I read in Kindle</p>
+          <p onclick="noteToSelf()" id="link"> 📝 Note to self <i class="fas fa-caret-down"></i></p>
+          <div id="note" style="display: none;">
+                <blockquote class="blockquote pt-2  ">
+                    <p>An attempt to make my journey into being a life long reader more fruitful. 
+                        The original idea is to collect all the notes and highlights from Kindle Reader in an organized form. 
+                        But like many other things that I do, this also have drifted far and wide. 
+                        My more ambitious idea involves learning little bit of Python scripting, Parsing file, 
+                        Web scraping, Web hosting, Firebase Cloud storage, Javascript, Bootstarp etc. 
+                        <em> One line of code at a time.</em></p>
+                    <footer class="blockquote-footer"><strong>Vimal Venugopal</strong> June 10, 2020</footer>
+                </blockquote>
+            </div>  
+      </div>
+    </div>
+   
+    <!-- took a while for you to figure this out - worth it though-->
+    <div class="container px-md-4 px-0 ">
+        <div id = "book-store" class="d-sm-flex d-inline-flex flex-wrap justify-content-around justify-content-md-start bd-highlight"></div>
+    </div>
+
+    <footer id="footer" class="text-white mt-4">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col-md-6 align-items-center">So Many Books, So Little Time</div>
+                <div class="col-md-3"></div>
+                <div class="col-md-3 text-right small align-self-end">Handcrafted with 🤍 by ViVe</div>
+            </div>
+        </div>
+    </footer>
+
+  <script src="scripts/main.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>

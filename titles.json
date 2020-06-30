@@ -1,0 +1,100 @@
+{
+    "totalBooks": 13,
+    "books": [
+        {
+            "title": "Automate the Boring Stuff with Python",
+            "authors": [
+                "Al Sweigart"
+            ],
+            "cover": "books\\Al Sweigart\\Automate the Boring Stuff with Python\\cover.jpg"
+        },
+        {
+            "title": "Sapiens",
+            "authors": [
+                "Yuval Noah Harari"
+            ],
+            "cover": "books\\Yuval Noah Harari\\Sapiens\\cover.jpg"
+        },
+        {
+            "title": "How to Read a Book",
+            "authors": [
+                "Van Doren, Charles",
+                "Mortimer J Adler"
+            ],
+            "cover": "books\\Van Doren, Charles;Mortimer J Adler\\How to Read a Book\\cover.jpg"
+        },
+        {
+            "title": "The 5 AM Club",
+            "authors": [
+                "Robin Sharma"
+            ],
+            "cover": "books\\Robin Sharma\\The 5 AM Club\\cover.jpg"
+        },
+        {
+            "title": "The Book of Magic",
+            "authors": [
+                "George R R Martin",
+                "Scott Lynch",
+                "Elizabeth Bear",
+                "Garth Nix"
+            ],
+            "cover": "books\\George R R Martin;Scott Lynch;Elizabeth Bear;Garth Nix\\The Book of Magic\\cover.jpg"
+        },
+        {
+            "title": "And Then There Were None",
+            "authors": [
+                "Agatha Christie"
+            ],
+            "cover": "books\\Agatha Christie\\And Then There Were None\\cover.jpg"
+        },
+        {
+            "title": "Siddhartha",
+            "authors": [
+                "Hermann Hesse"
+            ],
+            "cover": "books\\Hermann Hesse\\Siddhartha\\cover.jpg"
+        },
+        {
+            "title": "Khasakkinte Ithihasam",
+            "authors": [
+                "O V Vijayan"
+            ],
+            "cover": "books\\O V Vijayan\\Khasakkinte Ithihasam\\cover.jpg"
+        },
+        {
+            "title": "Goodbye, Things",
+            "authors": [
+                "Fumio Sasaki"
+            ],
+            "cover": "books\\Fumio Sasaki\\Goodbye, Things\\cover.jpg"
+        },
+        {
+            "title": "Animal Farm",
+            "authors": [
+                "George Orwell"
+            ],
+            "cover": "books\\George Orwell\\Animal Farm\\cover.jpg"
+        },
+        {
+            "title": "Nineteen EightyFour",
+            "authors": [
+                "George Orwell"
+            ],
+            "cover": "books\\George Orwell\\Nineteen EightyFour\\cover.jpg"
+        },
+        {
+            "title": "Daily Rituals How Artists Work",
+            "authors": [
+                "Mason Currey"
+            ],
+            "cover": "books\\Mason Currey\\Daily Rituals How Artists Work\\cover.jpg"
+        },
+        {
+            "title": "Atomic Habits Tiny Changes, Remarkable Results",
+            "authors": [
+                "James Clear"
+            ],
+            "cover": "books\\James Clear\\Atomic Habits Tiny Changes, Remarkable Results\\cover.jpg"
+        }
+    ]
+}

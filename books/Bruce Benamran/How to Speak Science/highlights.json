@@ -1,0 +1,57 @@
+{
+    "meta_data": {
+        "bookId": "16",
+        "title": "How to Speak Science",
+        "authors": [
+            "Bruce Benamran"
+        ],
+        "selfLink": "books\\Bruce Benamran\\How to Speak Science\\",
+        "thumbnail": "books\\Bruce Benamran\\How to Speak Science\\thumbnail.jpg"
+    },
+    "highlights": [
+        {
+            "time": "18 June 2020 16:21:59",
+            "text": "And that\u2019s the beauty of science. It is not a tool for discovering truth; it\u2019s a method for reducing uncertainty.\n"
+        },
+        {
+            "time": "18 June 2020 22:07:45",
+            "text": "Confusing correlation with causality is such a classic logical error that you can say it in Latin, in not just one but two subtly different ways: post hoc ergo propter hoc,1 and cum hoc ergo propter hoc.2 Bonus!\n"
+        },
+        {
+            "time": "18 June 2020 22:10:03",
+            "text": "In a nutshell, the whole problem is that reality is far more complicated than our theories. The smallest event may have many, infinitely small causes as well as multitudes of effects. This leads to the possibility of effects being much, much more significant than the causes\u2014this is commonly called the butterfly effect.\n"
+        },
+        {
+            "time": "18 June 2020 22:11:26",
+            "text": "Reality is too complex to be modeled perfectly. To get a handle on it, we first have to simplify things, extract some general rules, and then work out whether the rules are valid by way of reproducible observations and experiments.\n"
+        },
+        {
+            "time": "19 June 2020 11:51:48",
+            "text": "\u201cNothing is born or perishes, but already-existing things combine, then separate anew.\u201d\n"
+        },
+        {
+            "time": "26 June 2020 10:27:25",
+            "text": "When we think about light, we come to the realization that we don\u2019t understand anything at all.\n"
+        },
+        {
+            "time": "27 June 2020 13:16:55",
+            "text": "corner of your eye, as long as the movement causes variations\n"
+        },
+        {
+            "time": "27 June 2020 13:25:12",
+            "text": "professionals, the famous Egyptian surveyors, the bematists.\n"
+        },
+        {
+            "time": "27 June 2020 13:46:56",
+            "text": "(i.e., the force that attracts it\n"
+        },
+        {
+            "time": "27 June 2020 14:11:01",
+            "text": "to make a complete circle, and if he knew the distance between Alexandria and Syene, all he had to do is multiply the distance\n"
+        },
+        {
+            "time": "27 June 2020 16:05:14",
+            "text": "not going to dig too deep, at this point anyway. Let\u2019s simply start with the idea that an electron behaves, in some ways, like a tiny magnet. And, OK, let\u2019s say a proton acts like a tiny magnet, too\u2014one that is much, much, much weaker than an electron. Magnetism is interesting, because as commonplace as it is, it\u2019s one of those rare cases in which we can experiment with quantum phenomena on our own scale. Electrons are, among other things, like tiny magnets with a north pole and a south pole. Depending on an atom\u2019s configuration\u2014specifically, the number of electrons and how they are distributed on the atom\u2014the effects of the tiny magnets may or may not cancel each other out. Each electron creates its own aura of \u201cmagnetic magic,\u201d a magnetic field. A magnetic field is a region in space\u2014very close to the electron, in this case\u2014that can be influenced by this \u201cmagnet.\u201d The combined effects of each electron\u2019s orientation in the atom can sometimes create what we call an atomic magnet, a teeny-tiny magnet. It\u2019s the size of an atom and it\u2019s more than just electrons this time. This time we find ourselves in the company of an atom that forms a little magnetic field around it. This\n"
+        }
+    ]
+}

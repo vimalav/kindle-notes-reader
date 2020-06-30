@@ -1,0 +1,273 @@
+{
+    "meta_data": {
+        "bookId": "11",
+        "title": "Automate the Boring Stuff with Python",
+        "authors": [
+            "Al Sweigart"
+        ],
+        "selfLink": "books\\Al Sweigart\\Automate the Boring Stuff with Python\\",
+        "thumbnail": "books\\Al Sweigart\\Automate the Boring Stuff with Python\\thumbnail.jpg"
+    },
+    "highlights": [
+        {
+            "time": "15 May 2020 07:53:54",
+            "text": "A shell is a program that lets you type instructions into the computer, much like the Terminal or Command Prompt on OS X and Windows, respectively.\n"
+        },
+        {
+            "time": "15 May 2020 07:54:19",
+            "text": "A shell is a program that lets you type instructions into the computer, much like the Terminal or Command Prompt on OS X and Windows, respectively. Python\u2019s interactive shell lets you enter instructions for the Python interpreter software to run. The computer reads the instructions you enter and runs them immediately.\n"
+        },
+        {
+            "time": "15 May 2020 08:25:16",
+            "text": "The order of operations (also called precedence) of Python math operators is similar to that of mathematics.\n"
+        },
+        {
+            "time": "15 May 2020 08:25:23",
+            "text": "The order of operations (also called precedence) of Python math operators is similar to that of mathematics. The ** operator is evaluated first; the *, /, //, and % operators are evaluated next, from left to right; and the + and - operators are evaluated last (also from left to right). You can use parentheses to override the usual precedence if you need to.\n"
+        },
+        {
+            "time": "15 May 2020 08:25:39",
+            "text": "Precedence \n"
+        },
+        {
+            "time": "15 May 2020 09:35:40",
+            "text": "The str() function is handy when you have an integer or float that you want to concatenate to a string. The int() function is also helpful if you have a number as a string value that you want to use in some mathematics.\n"
+        },
+        {
+            "time": "15 May 2020 09:56:26",
+            "text": "Recall that the and, or, and not operators are called Boolean operators because they always operate on the Boolean values True and False. While expressions like 4 < 5 aren\u2019t Boolean values, they are expressions that evaluate down to Boolean values.\n"
+        },
+        {
+            "time": "15 May 2020 09:59:50",
+            "text": "The Boolean operators have an order of operations just like the math operators do. After any math and comparison operators evaluate, Python evaluates the not operators first, then the and operators, and then the or operators. Figure\u00a02-2.\u00a0The process of evaluating (4 < 5) and (5 < 6) to True. Elements of Flow Control Flow control statements often start with a part called the condition, and all are followed by a block of code called the clause. Before you learn about Python\u2019s specific flow control statements, I\u2019ll cover what a condition and a block are. Conditions The Boolean expressions you\u2019ve seen so far could all be considered conditions, which are the same thing as expressions; condition is just a more specific name in the context of flow control statements. Conditions always evaluate down to a Boolean value, True or False. A flow control statement decides what to do based on whether its condition is True or False, and almost every flow control statement uses a condition.\n"
+        },
+        {
+            "time": "15 May 2020 09:59:56",
+            "text": "The Boolean operators have an order of operations just like the math operators do. After any math and comparison operators evaluate, Python evaluates the not operators first, then the and operators, and then the or operators.\n"
+        },
+        {
+            "time": "15 May 2020 10:04:39",
+            "text": "An if statement\u2019s clause (that is, the block following the if statement) will execute if the statement\u2019s condition is True. The clause is skipped if the condition is False.\n"
+        },
+        {
+            "time": "15 May 2020 10:28:31",
+            "text": "In the while loop, the condition is always checked at the start of each iteration (that is, each time the loop is executed).\n"
+        },
+        {
+            "time": "15 May 2020 10:58:41",
+            "text": "If you ever run a program that has a bug causing it to get stuck in an infinite loop, press CTRL-C.\n"
+        },
+        {
+            "time": "15 May 2020 10:59:13",
+            "text": "Like break statements, continue statements are used inside loops. When the program execution reaches a continue statement, the program execution immediately jumps back to the start of the loop and reevaluates the loop\u2019s condition. (This is also what happens when the execution reaches the end of the loop.)\n"
+        },
+        {
+            "time": "15 May 2020 18:37:54",
+            "text": "There are some values in other data types that conditions will consider equivalent to True and False. When used in conditions, 0, 0.0, and '' (the empty string) are considered False, while all other values are considered True. For example, look at the following program: name = '' while not name:\u278a \u00a0\u00a0\u00a0 print('Enter your name:') \u00a0\u00a0\u00a0 name = input() print('How many guests will you have?') numOfGuests = int(input()) if numOfGuests:\u278b \u00a0\u00a0\u00a0 print('Be sure to have enough room for all your guests.')\u278c print('Done') If the user enters a blank string for name, then the while statement\u2019s condition will be True \u278a, and the program continues to ask for a name. If the value for numOfGuests is not 0 \u278b, then the condition is considered to be True, and the program will print a reminder for the user \u278c. You could have typed not name != '' instead of not name, and numOfGuests != 0 instead of numOfGuests, but using the truthy and falsey values can make your code easier to read.\n"
+        },
+        {
+            "time": "15 May 2020 18:38:55",
+            "text": "I doont understand this portion have to ask someone \n"
+        },
+        {
+            "time": "15 May 2020 18:45:43",
+            "text": "The random.randint() function call evaluates to a random integer value between the two integers that you pass it. Since randint() is in the random module, you must first type random. in front of the function name to tell Python to look for this function inside the random module.\n"
+        },
+        {
+            "time": "15 May 2020 20:57:25",
+            "text": "Deduplication makes your programs shorter, easier to read, and easier to update.\n"
+        },
+        {
+            "time": "15 May 2020 21:12:42",
+            "text": "In Python there is a value called None, which represents the absence of a value. None is the only value of the NoneType data type.\n"
+        },
+        {
+            "time": "15 May 2020 21:22:29",
+            "text": "For now, just know that some\n"
+        },
+        {
+            "time": "15 May 2020 21:22:35",
+            "text": "some\n"
+        },
+        {
+            "time": "15 May 2020 21:22:42",
+            "text": "some functions have optional keyword arguments\n"
+        },
+        {
+            "time": "15 May 2020 21:22:49",
+            "text": "some functions have optional keyword arguments that can be specified when the function is called.\n"
+        },
+        {
+            "time": "15 May 2020 21:23:57",
+            "text": "Parameters and variables that are assigned in a called function are said to exist in that function\u2019s local scope. Variables that are assigned outside all functions are said to exist in the global scope. A variable that exists in a local scope is called a local variable, while a variable that exists in the global scope is called a global variable.\n"
+        },
+        {
+            "time": "15 May 2020 21:35:16",
+            "text": "local variables in one function are completely separate from the local variables in another function.\n"
+        },
+        {
+            "time": "16 May 2020 08:56:53",
+            "text": "While indexes start at 0 and go up, you can also use negative integers for the index. The integer value -1 refers to the last index in a list, the value -2 refers to the second-to-last index in a list, and so on.\n"
+        },
+        {
+            "time": "16 May 2020 09:49:15",
+            "text": "for name in catNames: \u00a0\u00a0\u00a0 print('\u00a0 ' + name)\n"
+        },
+        {
+            "time": "16 May 2020 10:59:22",
+            "text": "Using range(len(supplies)) in the previously shown for loop is handy because the code in the loop can access the index (as the variable i) and the value at that index (as supplies[i]).\n"
+        },
+        {
+            "time": "16 May 2020 10:59:28",
+            "text": "Using range(len(supplies)) in the previously shown for loop is handy because the code in the loop can access the index (as the variable i) and the value at that index (as supplies[i]). Best of all, range(len(supplies)) will iterate through all the indexes of supplies, no matter how many items it contains.\n"
+        },
+        {
+            "time": "16 May 2020 11:14:03",
+            "text": "The multiple assignment trick is a shortcut that lets you assign multiple variables with the values in a list in one line of code.\n"
+        },
+        {
+            "time": "17 May 2020 08:42:29",
+            "text": "Each data type has its own set of methods. The list data type, for example, has several useful methods for finding, adding, removing, and otherwise manipulating values in a list.\n"
+        },
+        {
+            "time": "17 May 2020 09:28:27",
+            "text": "lists can actually span several lines in the source code file. The indentation of these lines do not matter; Python knows that until it sees the ending square bracket, the list is not finished.\n"
+        },
+        {
+            "time": "17 May 2020 15:48:30",
+            "text": "References\n"
+        },
+        {
+            "time": "17 May 2020 15:48:41",
+            "text": "Passing References References are particularly important for understanding how arguments get passed to functions. When a function is called, the values of the arguments are copied to the parameter variables. For lists (and dictionaries, which I\u2019ll describe in the next chapter), this means a copy of the reference is used for the parameter. To see the consequences of this, open a new file editor window, enter the following code, and save it as passingReference.py: def eggs(someParameter): \u00a0\u00a0\u00a0 someParameter.append('Hello') spam = [1, 2, 3] eggs(spam) print(spam) Notice that when eggs() is called, a return value is not used to assign a new value to spam. Instead, it modifies the list in place, directly. When run, this program produces the following output: [1, 2, 3, 'Hello'] Even though spam and someParameter contain separate references, they both refer to the same list. This is why the append('Hello') method call inside the function affects the list even after the function call has returned. Keep this behavior in mind: Forgetting that Python handles list and dictionary variables this way can lead to confusing bugs.\n"
+        },
+        {
+            "time": "17 May 2020 16:01:26",
+            "text": "Variables do not store list values directly; they store references to lists. This is an important distinction when copying variables or passing lists as arguments in function calls. Because the value that is being copied is the list reference, be aware that any changes you make to the list might impact another variable in your program.\n"
+        },
+        {
+            "time": "17 May 2020 16:54:08",
+            "text": "strings and lists are actually similar, if you consider a string to be a \u201clist\u201d of single text characters. Many of the things you can do with lists can also be done with strings: indexing; slicing; and using them with for loops, with len(), and with the in and not in operators.\n"
+        },
+        {
+            "time": "17 May 2020 17:11:43",
+            "text": ">>> spam = ['cats', 'dogs', 'moose'] >>> bacon = ['dogs', 'moose', 'cats'] >>> spam == bacon False >>> eggs = {'name': 'Zophie', 'species': 'cat', 'age': '8'} >>> ham = {'species': 'cat', 'age': '8', 'name': 'Zophie'} >>> eggs == ham True\n"
+        },
+        {
+            "time": "17 May 2020 17:35:50",
+            "text": "It\u2019s tedious to check whether a key exists in a dictionary before accessing that key\u2019s value. Fortunately, dictionaries have a get() method that takes two arguments: the key of the value to retrieve and a fallback value to return if that key does not exist.\n"
+        },
+        {
+            "time": "17 May 2020 17:35:56",
+            "text": "dictionaries have a get() method that takes two arguments: the key of the value to retrieve and a fallback value to return if that key does not exist.\n"
+        },
+        {
+            "time": "17 May 2020 17:36:12",
+            "text": "There are three dictionary methods that will return list-like values of the dictionary\u2019s keys, values, or both keys and values: keys(), values(), and items().\n"
+        },
+        {
+            "time": "17 May 2020 20:56:58",
+            "text": "Lists are useful to contain an ordered series of values, and dictionaries are useful for associating keys with values.\n"
+        },
+        {
+            "time": "18 May 2020 09:18:40",
+            "text": "You can also use the multiple assignment trick in a for loop to assign the key and value to separate variables. Enter the following into the interactive shell: >>> spam = {'color': 'red', 'age': 42} >>> for k, v in spam.items(): \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 print('Key: ' + k + ' Value: ' + str(v)) Key: age Value: 42 Key: color Value: red\n"
+        },
+        {
+            "time": "20 May 2020 09:44:56",
+            "text": "Regular expressions, called regexes for short, are descriptions for a pattern of text.\n"
+        },
+        {
+            "time": "20 May 2020 09:49:33",
+            "text": "A Regex object\u2019s search() method searches the string it is passed for any matches to the regex. The search() method will return None if the regex pattern is not found in the string. If the pattern is found, the search() method returns a Match object. Match objects have a group() method that will return the actual matched text from the searched string.\n"
+        },
+        {
+            "time": "20 May 2020 10:13:37",
+            "text": "Import the regex module with import re. Create a Regex object with the re.compile() function. (Remember to use a raw string.) Pass the string you want to search into the Regex object\u2019s search() method. This returns a Match object. Call the Match object\u2019s group() method to return a string of the actual matched text. NOTE While I encourage you to enter the example code into the interactive shell, you should also make use of web-based regular expression testers, which can show you exactly how a regex matches a piece of text that you enter. I recommend the tester at http://regexpal.com/. More Pattern Matching with Regular Expressions Now that you know the basic steps for creating and finding regular expression objects with Python, you\u2019re ready to try some of their more powerful pattern-matching capabilities. Grouping with Parentheses Say you want to separate the area code from the rest of the phone number. Adding parentheses will create groups in the regex: (\\d\\d\\d)-(\\d\\d\\d-\\d\\d\\d\\d). Then you can use the group() match object method to grab the matching text from just one group. The first set of parentheses in a regex string will be group 1. The second set will be group 2. By passing the integer 1 or 2 to the group() match object method, you can grab\n"
+        },
+        {
+            "time": "20 May 2020 10:13:43",
+            "text": "Import the regex module with import re. Create a Regex object with the re.compile() function. (Remember to use a raw string.) Pass the string you want to search into the Regex object\u2019s search() method. This returns a Match object. Call the Match object\u2019s group() method to return a string of the actual matched text.\n"
+        },
+        {
+            "time": "23 May 2020 20:26:57",
+            "text": "Adding parentheses will create groups in the regex: (\\d\\d\\d)-(\\d\\d\\d-\\d\\d\\d\\d). Then you can use the group() match object method to grab the matching text from just one group.\n"
+        },
+        {
+            "time": "23 May 2020 20:27:22",
+            "text": ">>> heroRegex = re.compile (r'Batman|Tina Fey') >>> mo1 = heroRegex.search('Batman and Tina Fey.') >>> mo1.group() 'Batman'\n"
+        },
+        {
+            "time": "23 May 2020 20:27:49",
+            "text": ">>> batRegex = re.compile(r'Bat(wo)?man') >>> mo1 = batRegex.search('The Adventures of Batman') >>> mo1.group() 'Batman'\n"
+        },
+        {
+            "time": "23 May 2020 20:28:12",
+            "text": "The * (called the star or asterisk) means \u201cmatch zero or more\u201d\u2014the group that precedes the star can occur any number of times in the text.\n"
+        },
+        {
+            "time": "23 May 2020 20:29:43",
+            "text": "Matching One or More with the Plus While * means \u201cmatch zero or more,\u201d the + (or plus) means \u201cmatch one or more.\u201d Unlike the star, which does not require its group to appear in the matched string, the group preceding a plus must appear at least once. It is not optional.\n"
+        },
+        {
+            "time": "23 May 2020 20:30:41",
+            "text": "\u00a0\\d \u00a0 Any numeric digit from 0 to 9.\u00a0 \u00a0 \u00a0\\D \u00a0 Any character that is \u00a0not a numeric digit from 0 to 9. \u00a0 \u00a0\\w \u00a0 Any letter, numeric digit, or the underscore character. (Think of this as matching \u201cword\u201d characters.)\u00a0 \u00a0 \u00a0\\W \u00a0 Any character that is \u00a0not a letter, numeric digit, or the underscore character. \u00a0 \u00a0\\s \u00a0 Any space, tab, or newline character. (Think of this as matching \u201cspace\u201d characters.)\u00a0 \u00a0 \u00a0\\S \u00a0 Any character that is \u00a0not a space, tab, or newline.\n"
+        },
+        {
+            "time": "23 May 2020 20:32:20",
+            "text": ">>> xmasRegex = re.compile(r'\\d+\\s\\w+') >>> xmasRegex.findall('12 drummers, 11 pipers, 10 lords, 9 ladies, 8 maids, 7 swans, 6 geese, 5 rings, 4 birds, 3 hens, 2 doves, 1 partridge') ['12 drummers', '11 pipers', '10 lords', '9 ladies', '8 maids', '7 swans', '6 geese', '5 rings', '4 birds', '3 hens', '2 doves', '1 partridge']\n"
+        },
+        {
+            "time": "23 May 2020 20:32:55",
+            "text": ">>> vowelRegex = re.compile(r'[aeiouAEIOU]') >>> vowelRegex.findall('Robocop eats baby food. BABY FOOD.') ['o', 'o', 'o', 'e', 'a', 'a', 'o', 'o', 'A', 'O', 'O']\n"
+        },
+        {
+            "time": "23 May 2020 20:34:08",
+            "text": "The r'\\d$' regular expression string matches strings that end with a numeric character from 0 to 9.\n"
+        },
+        {
+            "time": "23 May 2020 20:34:17",
+            "text": "The r'^\\d+$' regular expression string matches strings that both begin and end with one or more numeric characters.\n"
+        },
+        {
+            "time": "23 May 2020 20:34:49",
+            "text": ">>> wholeStringIsNum = re.compile(r'^\\d+$') >>> wholeStringIsNum.search('1234567890') <_sre.SRE_Match object; span=(0, 10), match='1234567890'> >>> wholeStringIsNum.search('12345xyz67890') == None True >>> wholeStringIsNum.search('12 34567890') == None True\n"
+        },
+        {
+            "time": "23 May 2020 20:35:01",
+            "text": "The . (or dot) character in a regular expression is called a wildcard and will match any character except for a newline.\n"
+        },
+        {
+            "time": "23 May 2020 20:37:15",
+            "text": "You can use the dot-star (.*) to stand in for that \u201canything.\u201d Remember that the dot character means \u201cany single character except the newline,\u201d and the star character means \u201czero or more of the preceding character.\u201d\n"
+        },
+        {
+            "time": "23 May 2020 21:18:35",
+            "text": ">>> newlineRegex = re.compile('.*', re.DOTALL) >>> newlineRegex.search('Serve the public trust.\\nProtect the innocent. \\nUphold the law.').group() 'Serve the public trust.\\nProtect the innocent.\\nUphold the law.'\n"
+        },
+        {
+            "time": "23 May 2020 21:19:56",
+            "text": "make your regex case-insensitive, you can pass re.IGNORECASE or re.I as a second argument to re.compile(). Enter the following into the interactive shell: >>> robocop = re.compile(r'robocop', re.I) >>> robocop.search('Robocop is part man, part machine, all cop.').group() 'Robocop' >>> robocop.search('ROBOCOP protects the innocent.').group() 'ROBOCOP'\n"
+        },
+        {
+            "time": "23 May 2020 21:20:19",
+            "text": "namesRegex = re.compile(r'Agent \\w+') >>> namesRegex.sub('CENSORED', 'Agent Alice gave the secret documents to Agent Bob.') 'CENSORED gave the secret documents to CENSORED.'\n"
+        },
+        {
+            "time": "24 May 2020 17:37:35",
+            "text": "Remember that the dot character will match just one character, which is why the match for the text flat in the previous example matched only lat. To match an actual dot, escape the dot with a backslash: \\..\n"
+        },
+        {
+            "time": "25 May 2020 02:05:47",
+            "text": "If the filename passed to open() does not exist, both write and append mode will create a new, blank file. After reading or writing a file, call the close() method before opening the file again.\n"
+        },
+        {
+            "time": "25 May 2020 02:13:06",
+            "text": "File objects, for example, cannot be encoded as text.\n"
+        },
+        {
+            "time": "25 May 2020 02:13:31",
+            "text": "The modules that an import statement imports are themselves just Python scripts. When the string from pprint.pformat() is saved to a .py file, the file is a module that can be imported just like any other. And since Python scripts are themselves just text files with the .py file extension, your Python programs can even generate other Python programs. You can then import these files into scripts.\n"
+        }
+    ]
+}

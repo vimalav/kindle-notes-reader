@@ -1,0 +1,138 @@
+{
+    "totalBooks": 16,
+    "books": [
+        {
+            "title": "Sapiens",
+            "authors": [
+                "Yuval Noah Harari"
+            ],
+            "selfLink": "books\\Yuval Noah Harari\\Sapiens\\",
+            "thumbnail": "books\\Yuval Noah Harari\\Sapiens\\thumbnail.jpg"
+        },
+        {
+            "title": "How to Read a Book",
+            "authors": [
+                "Van Doren, Charles",
+                "Mortimer J Adler"
+            ],
+            "selfLink": "books\\Van Doren, Charles;Mortimer J Adler\\How to Read a Book\\",
+            "thumbnail": "books\\Van Doren, Charles;Mortimer J Adler\\How to Read a Book\\thumbnail.jpg"
+        },
+        {
+            "title": "The Book of Magic",
+            "authors": [
+                "George R R Martin",
+                "Scott Lynch",
+                "Elizabeth Bear",
+                "Garth Nix"
+            ],
+            "selfLink": "books\\George R R Martin;Scott Lynch;Elizabeth Bear;Garth Nix\\The Book of Magic\\",
+            "thumbnail": "books\\George R R Martin;Scott Lynch;Elizabeth Bear;Garth Nix\\The Book of Magic\\thumbnail.jpg"
+        },
+        {
+            "title": "And Then There Were None",
+            "authors": [
+                "Agatha Christie"
+            ],
+            "selfLink": "books\\Agatha Christie\\And Then There Were None\\",
+            "thumbnail": "books\\Agatha Christie\\And Then There Were None\\thumbnail.jpg"
+        },
+        {
+            "title": "Siddhartha",
+            "authors": [
+                "Hermann Hesse"
+            ],
+            "selfLink": "books\\Hermann Hesse\\Siddhartha\\",
+            "thumbnail": "books\\Hermann Hesse\\Siddhartha\\thumbnail.jpg"
+        },
+        {
+            "title": "Khasakkinte Ithihasam",
+            "authors": [
+                "O V Vijayan"
+            ],
+            "selfLink": "books\\O V Vijayan\\Khasakkinte Ithihasam\\",
+            "thumbnail": "books\\O V Vijayan\\Khasakkinte Ithihasam\\thumbnail.jpg"
+        },
+        {
+            "title": "Goodbye, Things",
+            "authors": [
+                "Fumio Sasaki"
+            ],
+            "selfLink": "books\\Fumio Sasaki\\Goodbye, Things\\",
+            "thumbnail": "books\\Fumio Sasaki\\Goodbye, Things\\thumbnail.jpg"
+        },
+        {
+            "title": "Animal Farm",
+            "authors": [
+                "George Orwell"
+            ],
+            "selfLink": "books\\George Orwell\\Animal Farm\\",
+            "thumbnail": "books\\George Orwell\\Animal Farm\\thumbnail.jpg"
+        },
+        {
+            "title": "Nineteen EightyFour",
+            "authors": [
+                "George Orwell"
+            ],
+            "selfLink": "books\\George Orwell\\Nineteen EightyFour\\",
+            "thumbnail": "books\\George Orwell\\Nineteen EightyFour\\thumbnail.jpg"
+        },
+        {
+            "title": "Daily Rituals How Artists Work",
+            "authors": [
+                "Mason Currey"
+            ],
+            "selfLink": "books\\Mason Currey\\Daily Rituals How Artists Work\\",
+            "thumbnail": "books\\Mason Currey\\Daily Rituals How Artists Work\\thumbnail.jpg"
+        },
+        {
+            "title": "Automate the Boring Stuff with Python",
+            "authors": [
+                "Al Sweigart"
+            ],
+            "selfLink": "books\\Al Sweigart\\Automate the Boring Stuff with Python\\",
+            "thumbnail": "books\\Al Sweigart\\Automate the Boring Stuff with Python\\thumbnail.jpg"
+        },
+        {
+            "title": "Atomic Habits Tiny Changes, Remarkable Results",
+            "authors": [
+                "James Clear"
+            ],
+            "selfLink": "books\\James Clear\\Atomic Habits Tiny Changes, Remarkable Results\\",
+            "thumbnail": "books\\James Clear\\Atomic Habits Tiny Changes, Remarkable Results\\thumbnail.jpg"
+        },
+        {
+            "title": "Aesops Fables",
+            "authors": [
+                "Aesop",
+                "Laura Gibbs"
+            ],
+            "selfLink": "books\\Aesop;Laura Gibbs\\Aesops Fables\\",
+            "thumbnail": "books\\Aesop;Laura Gibbs\\Aesops Fables\\thumbnail.jpg"
+        },
+        {
+            "title": "B00AO3K00I",
+            "authors": [
+                "Maria Konnikova"
+            ],
+            "selfLink": "books\\Maria Konnikova\\B00AO3K00I\\",
+            "thumbnail": "books\\Maria Konnikova\\B00AO3K00I\\thumbnail.jpg"
+        },
+        {
+            "title": "Moonwalking With Einstein",
+            "authors": [
+                "Joshua Foer"
+            ],
+            "selfLink": "books\\Joshua Foer\\Moonwalking With Einstein\\",
+            "thumbnail": "books\\Joshua Foer\\Moonwalking With Einstein\\thumbnail.jpg"
+        },
+        {
+            "title": "How to Speak Science",
+            "authors": [
+                "Bruce Benamran"
+            ],
+            "selfLink": "books\\Bruce Benamran\\How to Speak Science\\",
+            "thumbnail": "books\\Bruce Benamran\\How to Speak Science\\thumbnail.jpg"
+        }
+    ]
+}

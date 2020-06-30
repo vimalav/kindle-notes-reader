@@ -1,0 +1,309 @@
+{
+    "meta_data": {
+        "bookId": "12",
+        "title": "Atomic Habits Tiny Changes, Remarkable Results",
+        "authors": [
+            "James Clear"
+        ],
+        "selfLink": "books\\James Clear\\Atomic Habits Tiny Changes, Remarkable Results\\",
+        "thumbnail": "books\\James Clear\\Atomic Habits Tiny Changes, Remarkable Results\\thumbnail.jpg"
+    },
+    "highlights": [
+        {
+            "time": "22 May 2020 16:14:34",
+            "text": "A habit is a routine or behavior that is performed regularly\u2014and, in many cases, automatically.\n"
+        },
+        {
+            "time": "22 May 2020 16:19:32",
+            "text": "\u201cTo write a great book, you must first become the book.\u201d\n"
+        },
+        {
+            "time": "22 May 2020 16:20:51",
+            "text": "The backbone of this book is my four-step model of habits\u2014cue, craving, response, and reward\u2014and the four laws of behavior change that evolve out of these steps. Readers with a psychology background may recognize some of these terms from operant conditioning, which was first proposed as \u201cstimulus, response, reward\u201d by B. F. Skinner in the 1930s and has been popularized more recently as \u201ccue, routine, reward\u201d in The Power of Habit by Charles Duhigg.\n"
+        },
+        {
+            "time": "22 May 2020 16:23:30",
+            "text": "\u201cThe whole principle came from the idea that if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.\u201d\n"
+        },
+        {
+            "time": "22 May 2020 16:26:42",
+            "text": "if you can get 1 percent better each day for one year, you\u2019ll end up thirty-seven times better by the time you\u2019re done.\n"
+        },
+        {
+            "time": "22 May 2020 16:27:00",
+            "text": "if you can get 1 percent better each day for one year, you\u2019ll end up thirty-seven times better by the time you\u2019re done. Conversely, if you get 1 percent worse each day for one year, you\u2019ll decline nearly down to zero. What starts as a small win or a minor setback accumulates into something much more.\n"
+        },
+        {
+            "time": "22 May 2020 16:35:53",
+            "text": "A single decision is easy to dismiss.\n"
+        },
+        {
+            "time": "22 May 2020 16:36:05",
+            "text": "But when we repeat 1 percent errors, day after day, by replicating poor decisions, duplicating tiny mistakes, and rationalizing little excuses, our small choices compound into toxic results.\n"
+        },
+        {
+            "time": "22 May 2020 16:36:12",
+            "text": "But when we repeat 1 percent errors, day after day, by replicating poor decisions, duplicating tiny mistakes, and rationalizing little excuses, our small choices compound into toxic results. It\u2019s the accumulation of many missteps\u2014a 1 percent decline here and there\u2014that eventually leads to a problem.\n"
+        },
+        {
+            "time": "23 May 2020 13:50:12",
+            "text": "If you find yourself struggling to build a good habit or break a bad one, it is not because you have lost your ability to improve. It is often because you have not yet crossed the Plateau of Latent Potential.\n"
+        },
+        {
+            "time": "23 May 2020 13:52:17",
+            "text": "Goals are about the results you want to achieve. Systems are about the processes that lead to those results.\n"
+        },
+        {
+            "time": "23 May 2020 13:52:46",
+            "text": "If you\u2019re a musician, your goal might be to play a new piece. Your system is how often you practice, how you break down and tackle difficult measures, and your method for receiving feedback from your instructor.\n"
+        },
+        {
+            "time": "23 May 2020 13:54:19",
+            "text": "Goals are good for setting a direction, but systems are best for making progress.\n"
+        },
+        {
+            "time": "23 May 2020 13:54:35",
+            "text": "Problem #1: Winners and losers have the same\n"
+        },
+        {
+            "time": "23 May 2020 14:50:59",
+            "text": "#2: Achieving a goal is only a momentary change.\n"
+        },
+        {
+            "time": "23 May 2020 14:51:17",
+            "text": "Achieving a goal only changes your life for the moment. That\u2019s the counterintuitive thing about improvement. We think we need to change our results, but the results are not the problem. What we really need to change are the systems that cause those results.\n"
+        },
+        {
+            "time": "23 May 2020 14:51:30",
+            "text": "Fix the inputs and the outputs will fix themselves.\n"
+        },
+        {
+            "time": "23 May 2020 14:52:28",
+            "text": "A systems-first mentality provides the antidote. When you fall in love with the process rather than the product, you don\u2019t have to wait to give yourself permission to be happy. You can be satisfied anytime your system is running.\n"
+        },
+        {
+            "time": "23 May 2020 14:58:59",
+            "text": "them.\u201d The ultimate form of intrinsic motivation is when a habit becomes part of your identity. It\u2019s one thing to say I\u2019m the type of person who wants this. It\u2019s something very different to say I\u2019m the type of person who is this.\n"
+        },
+        {
+            "time": "23 May 2020 14:59:19",
+            "text": "The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it. If you\u2019re proud of how your hair looks, you\u2019ll develop all sorts of habits to care for and maintain it.\n"
+        },
+        {
+            "time": "23 May 2020 14:59:37",
+            "text": "Once your pride gets involved, you\u2019ll fight tooth and nail to maintain your habits.\n"
+        },
+        {
+            "time": "23 May 2020 15:00:10",
+            "text": "The goal is not to read a book, the goal is to become a reader. The goal is not to run a marathon, the goal is to become a runner. The goal is not to learn an instrument, the goal is to become a musician.\n"
+        },
+        {
+            "time": "23 May 2020 15:00:25",
+            "text": "Your behaviors are usually a reflection of your identity.\n"
+        },
+        {
+            "time": "23 May 2020 15:01:31",
+            "text": "Doing the right thing is easy. After all, when your behavior and your identity are fully aligned, you are no longer pursuing behavior change. You are simply acting like the type of person you already believe yourself to be.\n"
+        },
+        {
+            "time": "23 May 2020 15:02:43",
+            "text": "The more deeply a thought or action is tied to your identity, the more difficult it is to change it. It can feel comfortable to believe what your culture believes (group identity) or to do what upholds your self-image (personal identity), even if it\u2019s wrong. The biggest barrier to positive change at any level\u2014individual, team, society\u2014is identity conflict.\n"
+        },
+        {
+            "time": "23 May 2020 15:03:06",
+            "text": "Good habits can make rational sense, but if they conflict with your identity, you will fail to put them into action.\n"
+        },
+        {
+            "time": "23 May 2020 15:03:31",
+            "text": "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity.\n"
+        },
+        {
+            "time": "23 May 2020 15:04:13",
+            "text": "The more you repeat a behavior, the more you reinforce the identity associated with that behavior.\n"
+        },
+        {
+            "time": "23 May 2020 15:05:22",
+            "text": "The more evidence you have\n"
+        },
+        {
+            "time": "23 May 2020 15:05:38",
+            "text": "The more evidence you have for a belief, the more strongly you will believe it.\n"
+        },
+        {
+            "time": "23 May 2020 15:10:47",
+            "text": "Decide the type of person you want to be. Prove it to yourself with small wins.\n"
+        },
+        {
+            "time": "23 May 2020 15:12:46",
+            "text": "\u201cWho is the type of person that could get the outcome I want?\u201d\n"
+        },
+        {
+            "time": "23 May 2020 15:18:21",
+            "text": "Quite literally, you become your habits.\n"
+        },
+        {
+            "time": "23 May 2020 15:32:16",
+            "text": "\u201cbehaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.\u201d\n"
+        },
+        {
+            "time": "23 May 2020 15:33:37",
+            "text": "This is the feedback loop behind all human behavior: try, fail, learn, try differently.\n"
+        },
+        {
+            "time": "23 May 2020 15:35:27",
+            "text": "\u201cHabits are, simply, reliable solutions to recurring problems in our environment.\u201d\n"
+        },
+        {
+            "time": "23 May 2020 15:45:09",
+            "text": "The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward.\n"
+        },
+        {
+            "time": "23 May 2020 15:45:20",
+            "text": "The cue is about noticing the reward. The craving is about wanting the reward. The response is about obtaining the reward. We chase rewards because they serve two purposes: (1) they satisfy us and (2) they teach us.\n"
+        },
+        {
+            "time": "23 May 2020 15:46:42",
+            "text": "If a behavior is insufficient in any of the four stages, it will not become a habit. Eliminate the cue and your habit will never start. Reduce the craving and you won\u2019t experience enough motivation to act. Make the behavior difficult and you won\u2019t be able to do it. And if the reward fails to satisfy your desire, then you\u2019ll have no reason to do it again in the future. Without the first three steps, a behavior will not occur. Without all four, a behavior will not be repeated.\n"
+        },
+        {
+            "time": "23 May 2020 15:55:27",
+            "text": "phone buzzes with a new text message. 2. Craving: You want to learn the contents of the message.\n"
+        },
+        {
+            "time": "23 May 2020 15:55:39",
+            "text": "1. Cue: Your phone buzzes with a new text message. 2. Craving: You want to learn the contents of the message. Solution phase 3. Response: You grab your phone and read the text. 4. Reward: You satisfy your craving to read the message. Grabbing your phone becomes associated with your phone buzzing.\n"
+        },
+        {
+            "time": "23 May 2020 16:01:26",
+            "text": "How to Create a Good Habit The 1st law (Cue): Make it obvious. The 2nd law (Craving): Make it attractive. The 3rd law (Response): Make it easy. The 4th law (Reward): Make it satisfying.\n"
+        },
+        {
+            "time": "23 May 2020 16:01:32",
+            "text": "How to Break a Bad Habit Inversion of the 1st law (Cue): Make it invisible. Inversion of the 2nd law (Craving): Make it unattractive. Inversion of the 3rd law (Response): Make it difficult. Inversion of the 4th law (Reward): Make it unsatisfying.\n"
+        },
+        {
+            "time": "23 May 2020 16:03:33",
+            "text": "A habit is a behavior that has been repeated enough times to become automatic.\n"
+        },
+        {
+            "time": "23 May 2020 16:08:31",
+            "text": "This is one of the most surprising insights about our habits: you don\u2019t need to be aware of the cue for a habit to begin. You can notice an opportunity and take action without dedicating conscious attention to it.\n"
+        },
+        {
+            "time": "23 May 2020 16:10:56",
+            "text": "\u201cUntil you make the unconscious conscious, it will direct your life and you will call it fate.\u201d\n"
+        },
+        {
+            "time": "23 May 2020 16:12:38",
+            "text": "\u201cI\u2019ve got my keys. I\u2019ve got my wallet. I\u2019ve got my glasses. I\u2019ve got my husband.\u201d\n"
+        },
+        {
+            "time": "23 May 2020 17:08:36",
+            "text": "\u201cDoes this behavior help me become the type of person I wish to be? Does this habit cast a vote for or against my desired identity?\u201d\n"
+        },
+        {
+            "time": "23 May 2020 17:09:56",
+            "text": "The first step to changing bad habits is to be on the lookout for them. If you feel like you need extra help, then you can try Pointing-and-Calling in your own life. Say out loud the action that you are thinking of taking and what the outcome will be. If you want to cut back on your junk food habit but notice yourself grabbing another cookie, say out loud, \u201cI\u2019m about to eat this cookie, but I don\u2019t need it. Eating it will cause me to gain weight and hurt my health.\u201d\n"
+        },
+        {
+            "time": "29 May 2020 21:58:05",
+            "text": "The sentence they filled out is what researchers refer to as an implementation intention, which is a plan you make beforehand about when and where to act. That is, how you intend to implement a particular habit. The cues that can trigger a habit come in a wide range of forms\u2014the feel of your phone buzzing in your pocket, the smell of chocolate chip cookies, the sound of ambulance sirens\u2014but the two most common cues are time and location. Implementation intentions leverage both of these cues.\n"
+        },
+        {
+            "time": "29 May 2020 21:58:21",
+            "text": "Broadly speaking, the format for creating an implementation intention is: \u201cWhen situation X arises, I will perform response Y.\u201d\n"
+        },
+        {
+            "time": "29 May 2020 22:00:12",
+            "text": "Many people think they lack motivation when what they really lack is clarity.\n"
+        },
+        {
+            "time": "29 May 2020 22:00:20",
+            "text": "Many people think they lack motivation when what they really lack is clarity. It is not always obvious when and where to take action. Some people spend their entire lives waiting for the time to be right to make an improvement.\n"
+        },
+        {
+            "time": "29 May 2020 22:01:25",
+            "text": "I will [BEHAVIOR] at [TIME] in [LOCATION].\n"
+        },
+        {
+            "time": "29 May 2020 22:02:46",
+            "text": "Give your habits a time and a space to live in the world. The goal is to make the time and location so obvious that, with enough repetition, you get an urge to do the right thing at the right time, even if you can\u2019t say why.\n"
+        },
+        {
+            "time": "29 May 2020 22:05:38",
+            "text": "Habit stacking is a special form of an implementation intention. Rather than pairing your new habit with a particular time and location, you pair it with a current habit.\n"
+        },
+        {
+            "time": "29 May 2020 22:05:54",
+            "text": "The habit stacking formula is: \u201cAfter [CURRENT HABIT], I will [NEW HABIT].\u201d\n"
+        },
+        {
+            "time": "29 May 2020 22:16:48",
+            "text": "\u201cWhen I close my laptop for lunch, I will do ten push-ups next to my desk.\u201d Ambiguity gone.\n"
+        },
+        {
+            "time": "29 May 2020 22:17:02",
+            "text": "The 1st Law of Behavior Change is to make it obvious. Strategies like implementation intentions and habit stacking are among the most practical ways to create obvious cues for your habits and design a clear plan for when and where to take action.\n"
+        },
+        {
+            "time": "29 May 2020 22:20:42",
+            "text": "Environment is the invisible hand that shapes human behavior. Despite our unique personalities, certain behaviors tend to arise again and again under certain environmental conditions. In church, people tend to talk in whispers. On a dark street, people act wary and guarded. In this way, the most common form of change is not internal, but external: we are changed by the world around us. Every habit is context dependent.\n"
+        },
+        {
+            "time": "29 May 2020 22:24:52",
+            "text": "vitamins when they are out of sight in the pantry. When the cues that spark a habit are subtle or hidden, they are easy to ignore.\n"
+        },
+        {
+            "time": "29 May 2020 22:24:58",
+            "text": "When the cues that spark a habit are subtle or hidden, they are easy to ignore.\n"
+        },
+        {
+            "time": "29 May 2020 22:25:49",
+            "text": "By comparison, creating obvious visual cues can draw your attention toward a desired habit. In the early 1990s, the cleaning staff at Schiphol Airport in Amsterdam installed a small sticker that looked like a fly near the center of each urinal. Apparently, when men stepped up to the urinals, they aimed for what they thought was a bug. The stickers improved their aim and significantly reduced \u201cspillage\u201d around the urinals.\n"
+        },
+        {
+            "time": "31 May 2020 21:29:57",
+            "text": "Environment design is powerful not only because it influences how we engage with the world but also because we rarely do\n"
+        },
+        {
+            "time": "31 May 2020 21:30:29",
+            "text": "Environment design is powerful not only because it influences how we engage with the world but also because we rarely do it. Most people live in a world others have created for them. But you can alter the spaces where you live and work to increase your exposure to positive cues and reduce your exposure to negative ones. Environment design allows you to take back control and become the architect of your life. Be the designer of your world and not merely the consumer of it. THE CONTEXT IS THE CUE The cues that trigger a habit can start out very specific, but over time your habits become associated not with a single trigger but with the entire context surrounding the behavior. For example, many people drink more in social situations than they would ever drink alone. The trigger is rarely a single cue, but rather the whole situation: watching your friends order drinks, hearing the music at the bar, seeing the beers on tap. We mentally assign our habits to the locations in which they occur: the home, the office, the gym. Each location develops a connection to certain habits and routines. You establish a particular relationship with the objects on your desk, the items on your kitchen counter, the things in your bedroom. Our behavior is not defined by the objects in the\n"
+        },
+        {
+            "time": "31 May 2020 21:30:39",
+            "text": "Environment design is powerful not only because it influences how we engage with the world but also because we rarely do it. Most people live in a world others have created for them. But you can alter the spaces where you live and work to increase your exposure to positive cues and reduce your exposure to negative ones. Environment design allows you to take back control and become the architect of your life. Be the designer of your world and not merely the consumer of it.\n"
+        },
+        {
+            "time": "31 May 2020 21:34:22",
+            "text": "When you can\u2019t manage to get to an entirely new environment, redefine or rearrange your current one. Create a separate space for work, study, exercise, entertainment, and cooking. The mantra I find useful is \u201cOne space, one use.\u201d\n"
+        },
+        {
+            "time": "31 May 2020 21:36:42",
+            "text": "I know a writer who uses his computer only for writing, his tablet only for reading, and his phone only for social media and texting. Every habit should have a home.\n"
+        },
+        {
+            "time": "31 May 2020 21:40:24",
+            "text": "The people with the best self-control are typically the ones who need to use it the least. It\u2019s easier to practice self-restraint when you don\u2019t have to use it very often. So, yes, perseverance, grit, and willpower are essential to success, but the way to improve these qualities is not by wishing you were a more disciplined person, but by creating a more disciplined environment.\n"
+        },
+        {
+            "time": "31 May 2020 21:42:04",
+            "text": "Bad habits are autocatalytic: the process feeds itself. They foster the feelings they try to numb. You feel bad, so you eat junk food. Because you eat junk food, you feel bad. Watching television makes you feel sluggish, so you watch more television because you don\u2019t have the energy to do anything else. Worrying about your health makes you feel anxious, which causes you to smoke to ease your anxiety, which makes your health even worse and soon you\u2019re feeling more anxious. It\u2019s a downward spiral, a runaway train of bad habits.\n"
+        },
+        {
+            "time": "31 May 2020 21:42:19",
+            "text": "Researchers refer to this phenomenon as \u201ccue-induced wanting\u201d: an external trigger causes a compulsive craving to repeat a bad habit. Once you notice something, you begin to want it.\n"
+        },
+        {
+            "time": "31 May 2020 21:42:50",
+            "text": "You can break a habit, but you\u2019re unlikely to forget it. Once\n"
+        },
+        {
+            "time": "31 May 2020 21:42:58",
+            "text": "You can break a habit, but you\u2019re unlikely to forget it. Once the mental grooves of habit have been carved into your brain, they are nearly impossible to remove entirely\u2014even if they go unused for quite a while.\n"
+        },
+        {
+            "time": "31 May 2020 21:45:06",
+            "text": "This practice is an inversion of the 1st Law of Behavior Change. Rather than make it obvious, you can make it invisible. I\u2019m often surprised by how effective simple changes like these can be. Remove a single cue and the entire habit often fades away.\n"
+        }
+    ]
+}

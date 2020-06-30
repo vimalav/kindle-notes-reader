@@ -1,0 +1,70 @@
+.book-cover {
+    width: 170px; /* You can set the dimensions to whatever you want */
+    height: 252px;
+    object-fit: cover;
+}
+
+#book-img{
+     width: 170px; /* You can set the dimensions to whatever you want */
+    height: 252px;
+    object-fit: cover;
+
+}
+
+#logo-footer{
+
+width: 30px;
+height: 30px;
+object-fit: contain;
+}
+
+body    {
+    background:#edf2f7 !important;
+}
+
+#link {
+	cursor: pointer;
+}
+
+mark { 
+    background-color: yellow;
+    color: black;
+  }    
+
+  #footer{
+    background: #747474  !important;
+}
+
+.d-flex{
+  width: auto;
+}
+/*
+.containers {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    grid-auto-rows: 252px;
+    grid-gap: 30px;
+    justify-content: center;
+  }
+  
+  .item {
+    background-color: purple;
+    
+  }
+
+  .item::after {
+    content: "";
+    flex: auto;
+  }
+*/
+
+i{
+    width: 170px;
+    height: 252px;
+    margin: 24px;
+}
+
+.text-wrap{
+  width: 170px;
+  line-height: 25px;
+}
