@@ -15,7 +15,7 @@ function getUrl(url){
 }
 
 
-if (window.location.pathname == /kindle-notes-reader/){ 
+if (window.location.pathname == "/kindle-notes-reader/" ){ 
 var x = "";
 var json_obj = JSON.parse(getUrl("books/titles.json"));
 for (i in json_obj.books){
