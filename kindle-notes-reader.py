@@ -47,7 +47,7 @@ from string import ascii_uppercase
 import requests
 from PIL import Image
 import duplicateFinder
-
+import PIL
 
 def split_title_author(book_meta_details):
     split = re.split(r'\s\(', book_meta_details)

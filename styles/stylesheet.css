@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&display=swap');  
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+
 .book-cover {
     width: 170px; /* You can set the dimensions to whatever you want */
     height: 252px;
@@ -11,6 +15,19 @@
 
 }
 
+#jumbotron {
+  background: red !important;
+}
+
+#h1-font {
+  font-family: 'Inconsolata', monospace !important;
+}
+
+#p-font{
+  font-family: 'IBM Plex Serif', serif;
+
+}
+
 #logo-footer{
 
 width: 30px;
@@ -19,7 +36,8 @@ object-fit: contain;
 }
 
 body    {
-    background:#edf2f7 !important;
+font-family: none;  
+  background:#edf2f7 !important;
 }
 
 #link {
@@ -38,25 +56,6 @@ mark {
 .d-flex{
   width: auto;
 }
-/*
-.containers {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, 200px);
-    grid-auto-rows: 252px;
-    grid-gap: 30px;
-    justify-content: center;
-  }
-  
-  .item {
-    background-color: purple;
-    
-  }
-
-  .item::after {
-    content: "";
-    flex: auto;
-  }
-*/
 
 i{
     width: 170px;
@@ -67,4 +66,13 @@ i{
 .text-wrap{
   width: 170px;
   line-height: 25px;
+}
+
+
+.loader {
+  text-align: center;
+  margin-top: 20%;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
 }
