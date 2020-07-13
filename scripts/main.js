@@ -15,7 +15,7 @@ function getUrl(url){
 }
 
 
-if (window.location.pathname == /kindle-notes/){ 
+if (window.location.pathname == /kindle-notes-reader/){ 
 var x = "";
 var json_obj = JSON.parse(getUrl("books/titles.json"));
 for (i in json_obj.books){
@@ -35,13 +35,13 @@ document.querySelectorAll('.book-cover').forEach(item => {
 })
 
 
-if (window.location.pathname == "/kindle-notes/book-details.html"){
+if (window.location.pathname == "/kindle-notes-reader/book-details.html"){
   
   if (sessionStorage.getItem("selfLink") == null){
     console.log("hello");
     console.log(selfLink);
     alert("Empty");
-    window.location.replace("https://www.tutorialrepublic.com/");
+    window.location.replace("https://vimalav.github.io/kindle-notes-reader/");
   }
 
   var bookPath = sessionStorage.getItem('selfLink');
