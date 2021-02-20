@@ -1,5 +1,5 @@
 # kindle-notes-reader
-Python script to read Annotations from Kindle reader and show it as a web page.
+Python script to read annotations from Kindle reader and show it as a web page.
 
 Part of my python learning process. I wanted a better way to organize my annotations from Kindle reader. So I created this flow
 
